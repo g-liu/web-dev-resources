@@ -133,3 +133,4 @@
 - [Adam Kaplan - Grid](http://www.adamkaplan.me/grid/)
 - [Designer News - Good questions to ask an employer during an interview?](https://news.layervault.com/stories/23191-good-questions-to-ask-an-employer-during-an-interview)
 - [HTTP API Design Guide](https://github.com/interagent/http-api-design)
+- [30 CSS Selector you must memorize](http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
