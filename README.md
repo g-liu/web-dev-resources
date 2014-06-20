@@ -12,7 +12,7 @@
 - [Transit](http://ricostacruz.com/jquery.transit/) (JS + jQuery)
 - [Animate.css](https://github.com/daneden/animate.css) (CSS)
 - [Mousetrap](http://craig.is/killing/mice) (JS)
-- [Typleplate](http://typeplate.com/) (CSS)
+- [Typeplate](http://typeplate.com/) (CSS)
 - [Coffin](http://fat.github.io/coffin/) (JS)
 - [Two.js](http://jonobr1.github.io/two.js/) (JS)
 - [Pure](http://purecss.io/) (CSS)
@@ -57,6 +57,7 @@
 - [Chai](http://chaijs.com/)
 - [PhantomJS](http://phantomjs.org/)
 - [QUnit](http://qunitjs.com/)
+- [Sinon](http://sinonjs.org/)
 - [Coveralls](https://coveralls.io/)
 
 ## Deploying
@@ -87,6 +88,7 @@
 - [Airbnb - JavaScript](https://github.com/airbnb/javascript)
 - [Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js/)
 - [Idiomatic CSS](https://github.com/necolas/idiomatic-css)
+- [WordPress coding standards](http://codex.wordpress.org/WordPress_Coding_Standards)
 
 ## Browser Extensions
 - [Postman](http://www.getpostman.com/)
@@ -111,6 +113,7 @@
 - [HTML5 Please](http://html5please.com/)
 - [IE NetRenderer](http://netrenderer.com/)
 - [JSFiddle](http://jsfiddle.net/)
+- [Codepen](http://codepen.io)
 - [ProCSSor](http://tools.maxcdn.com/procssor/)
 - [Easing Functions Cheat Sheet](http://easings.net/#)
 - [Web Developer Checklist](http://webdevchecklist.com/)
@@ -122,10 +125,12 @@
 - [Unirest](Miscellaneous)
 - [Prose](http://prose.io/)
 - [brain.js](https://harthur.github.io/brain/)
+- [Motherf*cking website](http://motherfuckingwebsite.com/)
 
 ## Articles
 - [Google Developers - Minimize payload size](https://developers.google.com/speed/docs/best-practices/payload)
 - [codrops - 3D Thumbnail Hover Effects](http://tympanus.net/codrops/2012/06/18/3d-thumbnail-hover-effects/)
+- [Nifty modal window effects](http://tympanus.net/Development/ModalWindowEffects/)
 - [GitHub - dotfiles](http://dotfiles.github.io/)
 - [CSS Wizardry - Front-end performance for web designers and front-end developers](http://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/)
 - [Dan Tao - Bootstrap without all the debt](https://coderwall.com/p/wixovg)
@@ -133,4 +138,4 @@
 - [Adam Kaplan - Grid](http://www.adamkaplan.me/grid/)
 - [Designer News - Good questions to ask an employer during an interview?](https://news.layervault.com/stories/23191-good-questions-to-ask-an-employer-during-an-interview)
 - [HTTP API Design Guide](https://github.com/interagent/http-api-design)
-- [30 CSS Selector you must memorize](http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
+- [30 CSS Selectors you must memorize](http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
