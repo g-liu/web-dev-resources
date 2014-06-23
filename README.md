@@ -78,6 +78,7 @@
 - [SoundCloud](http://developers.soundcloud.com/)
 - [Rdio](http://www.rdio.com/developers/docs/)
 - [Spotify](https://developer.spotify.com/technologies/web-api/)
+- [Forecast.io](http://forecast.io)
 - [Dribbble](https://dribbble.com/api)
 - [Reddit](http://www.reddit.com/dev/api)
 
@@ -99,6 +100,7 @@
 - [Ruby on Rails Tutorial](http://www.railstutorial.org/book)
 - [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
 - [Eloquent JavaScript](http://eloquentjavascript.net/)
+- [Learn X in Y Minutes](http://learnxinyminutes.com)
 
 ## Cool, Miscellaneous Stuff
 - [Yeoman](http://yeoman.io/)
