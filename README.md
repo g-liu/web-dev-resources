@@ -6,6 +6,7 @@
 - [SourceForge](http://sourceforge.net/)
 - [Google Code](https://code.google.com/)
 - [Open Source Licenses](http://opensource.org/licenses)
+- [GNU Licenses](http://www.gnu.org/licenses/)
 
 ## CSS & JavaScript Libraries
 - [Unheap](http://www.unheap.com/)
@@ -35,6 +36,7 @@
 - [Foundation](http://foundation.zurb.com/)
 - [Compass](http://compass-style.org/)
 - [WordPress](http://wordpress.org/)
+- [Ruby on Rails](http://rubyonrails.org)
 - [gulp.js](http://gulpjs.com/)
 - [Grunt](http://gruntjs.com/)
 
@@ -51,6 +53,7 @@
 - [Font Awesome](http://fortawesome.github.io/Font-Awesome/#)
 - [Fontello](http://fontello.com/)
 - [Ionicons](http://ionicons.com/)
+- [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
 
 ## Testing
 - [Mocha](http://visionmedia.github.io/mocha/)
@@ -69,6 +72,7 @@
 ## News
 - [Hacker News](https://news.ycombinator.com/)
 - [Designer News](https://news.layervault.com/)
+- [Slashdot](https://slashdot.org)
 
 ## Cool APIs
 - [TheBigDB](http://thebigdb.com/api)
@@ -100,6 +104,7 @@
 
 ## eBooks
 - [Ruby on Rails Tutorial](http://www.railstutorial.org/book)
+- [Rails Guides](http://guides.rubyonrails.org/)
 - [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
 - [Eloquent JavaScript](http://eloquentjavascript.net/)
 - [Learn X in Y Minutes](http://learnxinyminutes.com)
@@ -111,6 +116,7 @@
 - [Brunch](http://brunch.io/)
 - [placekitten](http://placekitten.com/)
 - [Placehold.it](http://placehold.it/)
+- [Corporate Ipsum](http://cipsum.com/)
 - [html5pattern](http://html5pattern.com/)
 - [HTML5 Please](http://html5please.com/)
 - [IE NetRenderer](http://netrenderer.com/)
@@ -133,6 +139,7 @@
 - [Google Developers - Minimize payload size](https://developers.google.com/speed/docs/best-practices/payload)
 - [codrops - 3D Thumbnail Hover Effects](http://tympanus.net/codrops/2012/06/18/3d-thumbnail-hover-effects/)
 - [Nifty modal window effects](http://tympanus.net/Development/ModalWindowEffects/)
+- [Essential tools for front-end web devs](http://codecondo.com/8-essential-design-tools-for-front-end-web-developers/)
 - [GitHub - dotfiles](http://dotfiles.github.io/)
 - [CSS Wizardry - Front-end performance for web designers and front-end developers](http://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/)
 - [Dan Tao - Bootstrap without all the debt](https://coderwall.com/p/wixovg)
