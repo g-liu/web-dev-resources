@@ -56,7 +56,7 @@
 - [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
 
 ## Testing
-- [Mocha](http://visionmedia.github.io/mocha/)
+- [Mocha](http://mochajs.org/)
 - [Chai](http://chaijs.com/)
 - [PhantomJS](http://phantomjs.org/)
 - [QUnit](http://qunitjs.com/)
